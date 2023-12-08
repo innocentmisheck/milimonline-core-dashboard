@@ -1,0 +1,24 @@
+{
+  "name": "milimonline-dashboard-backend",
+  "version": "1.0.0",
+  "description": "backend of the dashboard which it's frontend it's in VUE.js",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "keywords": [
+    "milimonline-dashboard-backend"
+  ],
+  "author": "Innocent Misheck",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "globally": "^0.0.0",
+    "mysql2": "^3.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
